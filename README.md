@@ -26,3 +26,6 @@ ___
 - All work must be your own. During the grading process we will check the revision history. Submissions that do not meet this requirement will not be considered.
 - You must have at least two new routes in your index.js file and one new pug template for the homepage.
 - You must create a developer test account and link to it in your README.md file. Submissions that do not meet this requirement will not be considered.
+
+## Link to the list view of the custom object 
+https://app.hubspot.com/contacts/50815919/objects/2-54597587/views/all/list
